@@ -7,6 +7,26 @@ print(a / b) # Division
 print(a % b) # Remainder Operator(Modulus)
 print(a // b) # Integer Division(Gives answer in Integer)
 
+# Comparison Operators
+# == (Equal)
+print(a == b) # (False)
+
+# != (Not Equal)
+print(a != b) # (True)
+
+# > (Greater than)
+print(a > b) # (False)
+
+# < (Less than)
+print(a < b) # (True)
+
+# >= (Greater than or equal to)
+print(a >= b) # (False)
+
+# <= (Less than or equal to)
+print(a <= b) # (True) 
+
+
 # Logical Operators
 # and
 # or

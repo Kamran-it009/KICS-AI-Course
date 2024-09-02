@@ -1,12 +1,13 @@
 # Data types
-# Text(str)
-# Numeric(Decimal, Without decimal)
-# complex
+# Text (String)
+# Decimal numbers (float)
+# Without Decimal numbers (integer)
+# Complex Numbers (comp)
 # List
 # Tuples
 # Dictionaries
 
-name = 'KAMRAN' # String variable
+name = 'KAMRAN' # string variable
 age = 15 # integer
 height = 5.4 # float
 comp = 20 + 2j
