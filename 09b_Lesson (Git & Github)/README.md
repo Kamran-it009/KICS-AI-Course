@@ -30,10 +30,3 @@
    - After verifying your email, you can customize your GitHub profile by adding a profile picture, bio, and other details.
 
 With your GitHub account set up, you are ready to manage your code, collaborate with others, and contribute to open-source projects!
-
-<br>
-<br>
-
-### Material Guide
-
-- Github Desktop: https://www.youtube.com/watch?v=chgtytPZTYs

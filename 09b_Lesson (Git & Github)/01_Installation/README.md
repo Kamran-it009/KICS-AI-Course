@@ -75,6 +75,8 @@
    - After signing in, GitHub Desktop will configure Git for you automatically.
    - You can now use GitHub Desktop to clone repositories, commit changes, and push to GitHub.
 
----
+### Material Guide
+- Github Desktop: https://www.youtube.com/watch?v=chgtytPZTYs
 
-Now you’re ready to use both **Git** for command-line operations and **GitHub Desktop** for a graphical interface to manage your repositories.
+
+---
