@@ -1,5 +1,5 @@
 
-## **GitHub Account Creation**
+# **GitHub Account Creation**
 
 1. **Go to GitHub's Website:**
    - Open your web browser and navigate to [https://github.com](https://github.com).
