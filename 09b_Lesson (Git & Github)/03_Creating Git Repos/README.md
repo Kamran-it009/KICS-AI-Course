@@ -26,8 +26,6 @@
 <br>
 <br>
 
-
-
 # **Creating a Repository Using GitHub Desktop**
 
 1. **Open GitHub Desktop:**
