@@ -1,5 +1,4 @@
-# Git Vesion Control and GitHub Desktop
-Here are the steps to install Git and GitHub Desktop on your system:
+# Installation of Git CMD & GitHub Desktop
 
 ### **Installing Git (Command Line Interface):**
 
