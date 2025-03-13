@@ -11,8 +11,8 @@
 name = 'KAMRAN' # string variable
 age = 15 # integer
 height = 5.4 # float
-comp = 20 + 2j
-martial_status = True
+comp = 20 + 2j # complex
+martial_status = True # boolean
 print('My name is:', name)
 print('My age is:', age)
 print('My height is:', height)
